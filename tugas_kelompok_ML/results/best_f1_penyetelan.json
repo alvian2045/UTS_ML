@@ -1,0 +1,14 @@
+{
+  "dengan_G_Baseline": null,
+  "dengan_G_DecisionTree": 0.8919381489062616,
+  "dengan_G_RandomForest": 0.8821159634521246,
+  "dengan_G_NaiveBayes": 0.733174072304507,
+  "dengan_G_SVM": 0.8619118100524206,
+  "dengan_G_kNN": 0.6559529359529359,
+  "tanpa_G_Baseline": null,
+  "tanpa_G_DecisionTree": 0.4688311688311688,
+  "tanpa_G_RandomForest": 0.48168572870238,
+  "tanpa_G_NaiveBayes": 0.4436203466894003,
+  "tanpa_G_SVM": 0.48103184973992974,
+  "tanpa_G_kNN": 0.3390374331550802
+}

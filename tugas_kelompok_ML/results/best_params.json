@@ -1,0 +1,46 @@
+{
+  "dengan_G_Baseline": {},
+  "dengan_G_DecisionTree": {
+    "clf__ccp_alpha": 0.0,
+    "clf__max_depth": 2,
+    "clf__min_samples_leaf": 1
+  },
+  "dengan_G_RandomForest": {
+    "clf__max_depth": null,
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 200
+  },
+  "dengan_G_NaiveBayes": {
+    "clf__var_smoothing": 0.1
+  },
+  "dengan_G_SVM": {
+    "clf__C": 0.1,
+    "clf__kernel": "linear"
+  },
+  "dengan_G_kNN": {
+    "clf__n_neighbors": 7,
+    "clf__weights": "uniform"
+  },
+  "tanpa_G_Baseline": {},
+  "tanpa_G_DecisionTree": {
+    "clf__ccp_alpha": 0.0,
+    "clf__max_depth": 4,
+    "clf__min_samples_leaf": 10
+  },
+  "tanpa_G_RandomForest": {
+    "clf__max_depth": null,
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 200
+  },
+  "tanpa_G_NaiveBayes": {
+    "clf__var_smoothing": 1e-09
+  },
+  "tanpa_G_SVM": {
+    "clf__C": 10,
+    "clf__kernel": "linear"
+  },
+  "tanpa_G_kNN": {
+    "clf__n_neighbors": 5,
+    "clf__weights": "uniform"
+  }
+}
